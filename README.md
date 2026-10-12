@@ -19,3 +19,5 @@ Never commit API keys or `.env` files. Verify important research claims against 
 
 Project under active development.
 
+
+Deployment setup verified.
