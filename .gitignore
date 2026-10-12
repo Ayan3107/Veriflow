@@ -1,0 +1,32 @@
+﻿# Secrets and environment files
+.env
+.env.*
+!.env.example
+**/.env
+**/.env.*
+!**/.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+.venv/
+venv/
+env/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Node.js and Next.js
+node_modules/
+.next/
+out/
+dist/
+.turbo/
+coverage/
+
+# Build and local files
+*.log
+.DS_Store
+Thumbs.db
+.vscode/
